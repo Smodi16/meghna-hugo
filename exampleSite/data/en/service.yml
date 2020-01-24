@@ -6,7 +6,7 @@ service:
   - name: Web Development
     icon: ti-world
     content: ''
-  - name: Responsive Design
+  - name: Programming Services
     icon: ti-layout
     content: ''
   - name: IT Services
