@@ -87,7 +87,7 @@ link = "https://www.facebook.com/Koders-Organization-706497809743948/"
 icon = "ti-instagram"
 link = "https://www.instagram.com/kodersorganization/"
 [[params.social]]
-icon = "ti-youtube"
+icon = "ti-discord"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
