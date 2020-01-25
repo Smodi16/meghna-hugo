@@ -5,7 +5,9 @@ service:
   service_item:
   - name: Web Development
     icon: ti-world
-    content: ''
+    content: Team Koders focuses on providing customized web solutions to the customers
+      that cater to their needs. They develop webpages that are user-friendly and
+      make search engine friendly websites.
   - name: Programming Services
     icon: ti-layout
     content: ''
