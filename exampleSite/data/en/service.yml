@@ -12,9 +12,11 @@ service:
     icon: ti-layout
     content: 'The team works with passion to bring ideas into reality and create user-customized
       applications to provide quality service to the customers. '
-  - name: IT Services
+  - name: IT Solutions
     icon: ti-blackboard
-    content: ''
+    content: Team Koders works to provide a real-world solution to an idea. In the
+      context of programming, we believe an idea can be shaped into a product keeping
+      in mind the customer's needs.
   - name: Graphic Design
     icon: ti-palette
     content: ''
