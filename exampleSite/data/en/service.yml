@@ -8,9 +8,10 @@ service:
     content: Team Koders focuses on providing customized web solutions to the customers
       that cater to their needs. They develop webpages that are user-friendly and
       make search engine friendly websites.
-  - name: Programming Services
+  - name: Android Development
     icon: ti-layout
-    content: ''
+    content: 'The team works with passion to bring ideas into reality and create user-customized
+      applications to provide quality service to the customers. '
   - name: IT Services
     icon: ti-blackboard
     content: ''
