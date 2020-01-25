@@ -17,9 +17,11 @@ service:
     content: Team Koders works to provide a real-world solution to an idea. In the
       context of programming, we believe an idea can be shaped into a product keeping
       in mind the customer's needs.
-  - name: Graphic Design
+  - name: Functional Programming
     icon: ti-palette
-    content: ''
+    content: Functional programming emphasizes the evaluation of expressions rather
+      than the execution of commands. It focuses on "what to solve" rather than "how
+      to solve" using expressions instead of statements.
   - name: App Development
     icon: ti-package
     content: ''
