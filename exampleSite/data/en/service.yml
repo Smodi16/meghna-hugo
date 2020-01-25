@@ -22,9 +22,11 @@ service:
     content: Functional programming emphasizes the evaluation of expressions rather
       than the execution of commands. It focuses on "what to solve" rather than "how
       to solve" using expressions instead of statements.
-  - name: App Development
+  - name: iOS Development
     icon: ti-package
-    content: ''
+    content: " We understand professional service as an opportunity to provide better
+      user experience and focuses more on having a customer-friendly environment than
+      a large client base."
   - name: UI/UX Design
     icon: ti-pulse
     content: ''
