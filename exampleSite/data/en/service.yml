@@ -10,8 +10,8 @@ service:
       make search engine friendly websites.
   - name: Android Development
     icon: ti-layout
-    content: "The team works with passion to bring ideas into reality and create user-customized
-      applications to provide quality service to the customers. \n"
+    content: 'The team works with passion to bring ideas into reality and create user-customized
+      applications to provide quality service to the customers. '
   - name: IT Solutions
     icon: ti-blackboard
     content: Team Koders works to provide a real-world solution to an idea. In the
