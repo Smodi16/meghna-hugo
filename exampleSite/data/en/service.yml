@@ -29,4 +29,5 @@ service:
       a large client base."
   - name: UI/UX Design
     icon: ti-pulse
-    content: ''
+    content: Whereas UI deals with the presentation and interactivity of a product,
+      UX is more concerned with each and every element providing a better user experience.
