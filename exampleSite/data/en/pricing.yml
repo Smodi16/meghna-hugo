@@ -3,6 +3,11 @@ pricing:
   enable: true
   title: Coming Soon
   pricing_table:
+  - name: Serverless Cloud Computing
+    price: ''
+    unit: ''
+    services: ''
+    button: ''
   - name: IoT Systems
     price: ''
     unit: ''
