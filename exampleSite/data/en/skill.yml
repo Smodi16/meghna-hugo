@@ -7,13 +7,13 @@ skill:
   content: ''
   image: images/about/company-growth.webp
   skill_item:
-  - name: Web and Mobile Technology
-    percent: 90%
   - name: Blockchain
     percent: 70%
-  - name: Software Development
-    percent: 80%
   - name: Security
     percent: 75%
+  - name: Software Development
+    percent: 80%
+  - name: Web and Mobile Technology
+    percent: 90%
   - name: Artificial Intelligence and Machine Learning
     percent: 75%
