@@ -1,8 +1,13 @@
 ---
 pricing:
-  enable: false
-  title: Our Plans
+  enable: true
+  title: Coming Soon
   pricing_table:
+  - name: IoT Systems
+    price: ''
+    unit: ''
+    services: ''
+    button: ''
   - name: Progressive Web Applications
     price: ''
     unit: ''
