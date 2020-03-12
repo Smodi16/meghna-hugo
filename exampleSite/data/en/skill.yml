@@ -7,10 +7,10 @@ skill:
   content: ''
   image: images/about/company-growth.webp
   skill_item:
-  - name: 'Analytics '
-    percent: "65"
   - name: Security
     percent: 75%
+  - name: 'Analytics '
+    percent: "65"
   - name: Blockchain
     percent: 70%
   - name: Software Development
