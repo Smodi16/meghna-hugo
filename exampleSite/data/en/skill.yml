@@ -7,9 +7,9 @@ skill:
   content: ''
   image: images/about/company-growth.webp
   skill_item:
-  - name: Business Development
+  - name: Web and Mobile Technology
     percent: 90%
-  - name: Analysis
+  - name: Blockchain
     percent: 70%
   - name: Design
     percent: 80%
