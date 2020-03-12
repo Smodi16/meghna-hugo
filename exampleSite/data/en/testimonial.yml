@@ -4,25 +4,9 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
-  - name: UPES Student
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
-    date: Dec 26, 2018
-    content: The projects are upto the mark and the content is delivered perfectly
-      as per the requirements, all the documentation along with the licensing is wayy
-      above the mark, work done wayy better than a professional. When I gave the project
-      I didn't think you guys would plan it out this well, Kartikey and his team are
-      the best at what they do.
   - name: Jai agarwal (Managing Director, JaiG )
     image: images/client/client-2.jpg
     image_webp: images/client/client-2.webp
     date: Jan 15, 2020
     content: I am glad that we have such a zealous team who always astonish us with
       there amazing work out of what we have planned forth.
-  - name: DIT Student
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
-    date: Aug 10, 2019
-    content: Their project delivery is easy to use with proper documentation and explanation
-      on the code. And the cordial service is a great way to get the work done within
-      stipulated time period.
