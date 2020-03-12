@@ -24,9 +24,7 @@ service:
       to solve" using expressions instead of statements.
   - name: iOS Development
     icon: ti-package
-    content: " We understand professional service as an opportunity to provide better
-      user experience and focuses more on having a customer-friendly environment than
-      a large client base."
+    content: Coming Soon.
   - name: UI/UX Design
     icon: ti-pulse
     content: Whereas UI deals with the presentation and interactivity of a product,
