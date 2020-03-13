@@ -23,7 +23,6 @@ weight = 4
 [[menu.main]]
 URL = "portfolio"
 name = "Technologies"
-url = "https://koderstest.netlify.com/technologies"
 weight = 2
 [[menu.main]]
 URL = "services"
