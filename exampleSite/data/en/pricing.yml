@@ -1,6 +1,6 @@
 ---
 pricing:
-  enable: false
+  enable: true
   title: Coming Soon
   pricing_table:
   - name: Serverless Cloud Computing
