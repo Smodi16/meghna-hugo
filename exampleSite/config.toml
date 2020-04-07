@@ -18,21 +18,21 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "services"
-name = "Service"
-weight = 2
-[[menu.main]]
-URL = "skills"
-name = "Technologies"
+URL = "about"
+name = "About"
 weight = 3
 [[menu.main]]
-URL = "about"
-name = "About Us"
+URL = "technologies"
+name = "Technologies"
+weight = 2
+[[menu.main]]
+URL = "services"
+name = "Service"
 weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 7
+weight = 4
 [params]
 author = "Themefisher"
 description = "Koders"
