@@ -20,8 +20,5 @@ fields:
       name: icon
       label: icon
     - type: text
-      name: title
-      label: title
-    - type: text
       name: content
       label: content
