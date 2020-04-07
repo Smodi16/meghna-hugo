@@ -9,8 +9,6 @@ skill:
   skill_item:
   - name: Security
     percent: 75%
-  - name: 'Analytics '
-    percent: "65"
   - name: Blockchain
     percent: 70%
   - name: Software Development
