@@ -20,7 +20,7 @@ weight = 2
 [[menu.main]]
 URL = "services"
 name = "Service"
-weight = 2
+weight = "0"
 [[menu.main]]
 URL = "skills"
 name = "Technologies"
