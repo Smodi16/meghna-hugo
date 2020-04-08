@@ -18,30 +18,25 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "https://docs.google.com/forms/d/e/1FAIpQLSfifWzpJV5XXXIAuxjpWdEMh-inJTu8Z_a2Bvu50-aMAJPkaQ/viewform?usp=sf_link"
-color = ""
-name = "Add"
-weight = "8"
-[[menu.main]]
-URL = "services"
-color = ""
-name = "Service"
-weight = "1"
-[[menu.main]]
-URL = "skills"
-color = ""
-name = "Technologies"
-weight = 3
+URL = "contact"
+color = "#5FD343"
+name = "Contact"
+weight = 4
 [[menu.main]]
 URL = "about"
 color = ""
 name = "About"
-weight = "6"
+weight = 3
 [[menu.main]]
-URL = "contact"
-color = "#5FD343"
-name = "Contact"
-weight = 7
+URL = "skills"
+color = ""
+name = "Technologies"
+weight = 2
+[[menu.main]]
+URL = "services"
+color = ""
+name = "Service"
+weight = 1
 [params]
 author = "Themefisher"
 description = "Koders"
