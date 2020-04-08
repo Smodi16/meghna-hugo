@@ -18,6 +18,11 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
+URL = "https://docs.google.com/forms/d/e/1FAIpQLSfifWzpJV5XXXIAuxjpWdEMh-inJTu8Z_a2Bvu50-aMAJPkaQ/viewform?usp=sf_link"
+color = ""
+name = "Add"
+weight = "8"
+[[menu.main]]
 URL = "services"
 color = ""
 name = "Service"
