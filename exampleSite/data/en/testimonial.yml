@@ -2,14 +2,8 @@
 testimonial:
   enable: true
   bg_image: images/backgrounds/bg-testimonial.jpg
-  bg_image_webp: ''
   testimonial_item:
   - name: Jai agarwal (Managing Director, JaiG )
-    date: ''
-    content: xyz
-  - name: Jai agarwal (Managing Director, JaiG )
-    image: ''
-    image_webp: ''
     date: Jan 15, 2020
     content: I am glad that we have such a zealous team who always astonish us with
       there amazing work out of what we have planned forth.
