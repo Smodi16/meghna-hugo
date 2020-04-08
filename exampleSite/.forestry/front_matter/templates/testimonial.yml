@@ -12,9 +12,6 @@ fields:
   - type: file
     name: bg_image
     label: bg_image
-  - type: text
-    name: bg_image_webp
-    label: bg_image_webp
   - type: field_group_list
     name: testimonial_item
     label: testimonial_item
