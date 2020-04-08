@@ -30,10 +30,5 @@ fields:
     - type: text
       name: content
       label: content
-- name: button
-  type: text
-  config:
-    required: false
-  label: Button
 pages:
 - exampleSite/data/en/about.yml
