@@ -10,15 +10,6 @@ fields:
     name: enable
     label: enable
   - type: text
-    name: bg_image_webp
-    label: bg_image_webp
-  - type: file
-    name: bg_image
-    label: bg_image
-  - type: text
-    name: icon
-    label: icon
-  - type: text
     name: title
     label: title
   - type: text
