@@ -28,5 +28,3 @@ fields:
       name: link
       label: link
   label: about
-pages:
-- exampleSite/data/en/about.yml
