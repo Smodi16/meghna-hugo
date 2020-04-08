@@ -17,4 +17,6 @@ pricing:
     price: ''
     unit: ''
     services: ''
-    button: ''
+    button:
+      label: ''
+      link: ''
