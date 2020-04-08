@@ -34,7 +34,7 @@ name = "About"
 weight = "6"
 [[menu.main]]
 URL = "contact"
-color = "#4A90E2"
+color = "#4385D3"
 name = "Contact"
 weight = 7
 [params]
