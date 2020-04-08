@@ -3,6 +3,9 @@ about:
   enable: true
   title: About
   about_item:
+  - icon: ''
+    title: 'We''re Hiring '
+    content: ''
   - icon: ti-ruler-pencil
     title: We're Creative
     content: ''
