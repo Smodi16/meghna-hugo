@@ -19,18 +19,22 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 URL = "services"
+color = ""
 name = "Service"
 weight = "1"
 [[menu.main]]
 URL = "skills"
+color = ""
 name = "Technologies"
 weight = 3
 [[menu.main]]
 URL = "about"
+color = ""
 name = "About"
 weight = "6"
 [[menu.main]]
 URL = "contact"
+color = "#4A90E2"
 name = "Contact"
 weight = 7
 [params]
