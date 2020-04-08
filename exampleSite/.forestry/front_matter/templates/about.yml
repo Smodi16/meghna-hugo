@@ -12,6 +12,11 @@ fields:
   - type: text
     name: title
     label: title
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Text
   - type: field_group_list
     name: about_item
     label: about_item
@@ -25,10 +30,5 @@ fields:
     - type: text
       name: content
       label: content
-  - name: text
-    type: text
-    config:
-      required: false
-    label: Text
 pages:
 - exampleSite/data/en/about.yml
