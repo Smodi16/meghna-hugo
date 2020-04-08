@@ -17,26 +17,9 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.main]]
-URL = "contact"
-color = "#5FD343"
-name = "Contact"
-weight = 4
-[[menu.main]]
-URL = "about"
-color = ""
-name = "About"
-weight = 3
-[[menu.main]]
-URL = "skills"
-color = ""
-name = "Technologies"
-weight = 2
-[[menu.main]]
-URL = "services"
-color = ""
-name = "Service"
-weight = 1
+[menu.main]
+name = "Add"
+weight = 5
 [params]
 author = "Themefisher"
 description = "Koders"
