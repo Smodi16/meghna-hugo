@@ -22,6 +22,3 @@ fields:
     - type: text
       name: title
       label: title
-    - type: text
-      name: content
-      label: content
