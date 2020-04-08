@@ -82,6 +82,12 @@ fields:
     - type: text
       name: weight
       label: weight
+    - name: color
+      type: color
+      label: color
+      config:
+        required: false
+        color_format: Hex
 - type: field_group
   name: params
   label: params
