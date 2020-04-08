@@ -3,8 +3,7 @@ label: button2
 hide_body: true
 fields:
 - type: field_group
-  name: banner
-  label: banner
+  name: About
   fields:
   - type: boolean
     name: enable
@@ -28,3 +27,4 @@ fields:
     - type: text
       name: link
       label: link
+  label: about
