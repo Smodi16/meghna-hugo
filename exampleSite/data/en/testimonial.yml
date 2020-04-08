@@ -5,6 +5,9 @@ testimonial:
   bg_image_webp: ''
   testimonial_item:
   - name: Jai agarwal (Managing Director, JaiG )
+    date: ''
+    content: xyz
+  - name: Jai agarwal (Managing Director, JaiG )
     image: ''
     image_webp: ''
     date: Jan 15, 2020
