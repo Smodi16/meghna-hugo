@@ -23,12 +23,6 @@ fields:
       name: name
       label: name
     - type: text
-      name: image
-      label: image
-    - type: text
-      name: image_webp
-      label: image_webp
-    - type: text
       name: date
       label: date
     - type: textarea
