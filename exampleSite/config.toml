@@ -89,14 +89,14 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/spl.png"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
+icon = "ti-twitter"
 link = "https://twitter.com/Koders4"
 [[params.social]]
-icon = "ti-youtube"
-link = "#"
+icon = "ti-facebook"
+link = "https://www.facebook.com/Koders-Organization-706497809743948/"
+[[params.social]]
+icon = "ti-instagram"
+link = "https://www.instagram.com/kodersorganization/"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/in/koders-in-88575a1a0/"
