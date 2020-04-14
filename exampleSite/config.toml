@@ -19,8 +19,8 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 URL = "about"
-name = "About Us"
-weight = 1
+name = "About"
+weight = "3"
 [[menu.main]]
 URL = "services"
 name = "Service"
