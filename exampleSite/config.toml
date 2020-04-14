@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "Koders"
 [Languages.en]
 contentDir = "content/english"
-home = "Home"
+home = ""
 languageCode = "en-us"
 languageName = "En"
 weight = 1
