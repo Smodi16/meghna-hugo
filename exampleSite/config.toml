@@ -17,6 +17,8 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[menu]
+static = []
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -26,17 +28,13 @@ URL = "services"
 name = "Service"
 weight = "1"
 [[menu.main]]
-URL = "skill"
+URL = "skills"
 name = "Technologies"
 weight = "2"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = "4"
-[[menu.static]]
-URL = "https://themefisher.com/"
-name = "Themefisher"
-weight = 8
 [params]
 author = "Koders"
 description = ""
